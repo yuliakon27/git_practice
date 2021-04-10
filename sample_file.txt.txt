@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 helo hjhjhjh
 
 
 let's take a break
+=======
+hello from github
+
+
+2 hello from github
+
+
+3 hello 
+>>>>>>> 8d94be0681a91ea8540f2d87865b258858d7cdf2
